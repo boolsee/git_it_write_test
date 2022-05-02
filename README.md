@@ -1,2 +1,5 @@
-# git_it_write_test
-Git It Write 시험용
+# 목적
+* Git It Write Plugin Test 
+
+# 시험 방법
+* Git It Write 
